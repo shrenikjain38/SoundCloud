@@ -1,0 +1,11 @@
+<?php
+$shrenik="shrenik";
+if($shrenik=="shrenik")
+{
+	echo"done";
+}
+else
+{
+	echo"false";
+}
+?>
